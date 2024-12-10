@@ -154,6 +154,9 @@ tr {
   padding: 1rem;
   border-bottom: 1px solid var(--clr-Light-Grey);
 }
+tr:last-child {
+  border-bottom: none;
+}
 
 /* media query */
 @media (max-width: 500px) {
