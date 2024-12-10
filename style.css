@@ -151,7 +151,7 @@ hr {
 tr {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding: 1rem;
+  padding: 0.9rem;
   border-bottom: 1px solid var(--clr-Light-Grey);
 }
 tr:last-child {
