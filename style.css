@@ -19,3 +19,7 @@
   text-decoration: none;
   list-style-type: none;
 }
+body{
+    display: grid;
+    place-content: center;
+}
